@@ -20,7 +20,4 @@ while True:
     pygame.draw.circle(win, (250, 0, 0), (250, cx), 50)
     pygame.draw.rect(win, (0, 250, 0), (xc, 100, 120, 110))
     pygame.display.update()
-
     pygame.time.delay(10)
-
-
